@@ -19,7 +19,6 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4505003765281662}
-  - component: {fileID: 95433458183653370}
   - component: {fileID: 65817264343397626}
   m_Layer: 0
   m_Name: Wall
@@ -89,7 +88,7 @@ Transform:
   - {fileID: 4228085046393650}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -137.82501, z: 0}
 --- !u!4 &4649416187992952
 Transform:
   m_ObjectHideFlags: 1
@@ -197,20 +196,3 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1.1168816, y: 2.6982832, z: 0.18353081}
   m_Center: {x: 0.66165006, y: 1.3162642, z: -0.02355957}
---- !u!95 &95433458183653370
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1087548347867892}
-  m_Enabled: 1
-  m_Avatar: {fileID: 9000000, guid: 99237bbeb9be1c34084950015e5fae69, type: 3}
-  m_Controller: {fileID: 0}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
