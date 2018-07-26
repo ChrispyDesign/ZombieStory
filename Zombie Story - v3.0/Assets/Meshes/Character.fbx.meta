@@ -22,6 +22,14 @@ ModelImporter:
     100028: UpperArm_Left
     100030: UpperArm_Right
     100032: UpperBody
+    100034: transform1
+    100036: transform2
+    100038: Forearm_Left
+    100040: Hand_Left
+    100042: Calf_Left
+    100044: Calf_Left 1
+    100046: Foot_Left
+    100048: Foot_Left 1
     400000: Calf_Right
     400002: Calf_Right 1
     400004: //RootNode
@@ -39,8 +47,17 @@ ModelImporter:
     400028: UpperArm_Left
     400030: UpperArm_Right
     400032: UpperBody
+    400034: transform1
+    400036: transform2
+    400038: Forearm_Left
+    400040: Hand_Left
+    400042: Calf_Left
+    400044: Calf_Left 1
+    400046: Foot_Left
+    400048: Foot_Left 1
     2100000: lambert1
     2100002: aaa_initialShadingGroup1
+    2100004: lambert2
     2300000: Calf_Right
     2300002: Calf_Right 1
     2300004: Foot_Right
@@ -57,6 +74,12 @@ ModelImporter:
     2300026: UpperArm_Left
     2300028: UpperArm_Right
     2300030: UpperBody
+    2300032: Forearm_Left
+    2300034: Hand_Left
+    2300036: Calf_Left
+    2300038: Calf_Left 1
+    2300040: Foot_Left
+    2300042: Foot_Left 1
     3300000: Calf_Right
     3300002: Calf_Right 1
     3300004: Foot_Right
@@ -73,6 +96,12 @@ ModelImporter:
     3300026: UpperArm_Left
     3300028: UpperArm_Right
     3300030: UpperBody
+    3300032: Forearm_Left
+    3300034: Hand_Left
+    3300036: Calf_Left
+    3300038: Calf_Left 1
+    3300040: Foot_Left
+    3300042: Foot_Left 1
     4300000: UpperBody
     4300002: UpperArm_Left
     4300004: Forearm_Right
@@ -89,6 +118,12 @@ ModelImporter:
     4300026: Thigh_Right
     4300028: Calf_Right
     4300030: Foot_Right
+    4300032: Forearm_Left
+    4300034: Hand_Left
+    4300036: Calf_Left
+    4300038: Foot_Left
+    4300040: Calf_Left
+    4300042: Foot_Left
     9500000: //RootNode
   externalObjects: {}
   materials:
