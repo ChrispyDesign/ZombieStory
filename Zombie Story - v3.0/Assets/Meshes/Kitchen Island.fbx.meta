@@ -1,118 +1,16 @@
 fileFormatVersion: 2
-guid: 99237bbeb9be1c34084950015e5fae69
-timeCreated: 1532054092
+guid: 9c1d08d931d285f41b96c6e33293ef06
+timeCreated: 1532655556
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Wall_BOT
-    100004: Wall_TOP
-    100006: Log1
-    100008: Log10
-    100010: Log11
-    100012: Log12
-    100014: Log13
-    100016: Log14
-    100018: Log15
-    100020: Log16
-    100022: Log17
-    100024: Log18
-    100026: Log19
-    100028: Log2
-    100030: Log3
-    100032: Log4
-    100034: Log5
-    100036: Log6
-    100038: Log7
-    100040: Log8
-    100042: Log9
     400000: //RootNode
-    400002: Wall_BOT
-    400004: Wall_TOP
-    400006: Log1
-    400008: Log10
-    400010: Log11
-    400012: Log12
-    400014: Log13
-    400016: Log14
-    400018: Log15
-    400020: Log16
-    400022: Log17
-    400024: Log18
-    400026: Log19
-    400028: Log2
-    400030: Log3
-    400032: Log4
-    400034: Log5
-    400036: Log6
-    400038: Log7
-    400040: Log8
-    400042: Log9
     2100000: lambert1
-    2300000: Wall_BOT
-    2300002: Wall_TOP
-    2300004: Log1
-    2300006: Log10
-    2300008: Log11
-    2300010: Log12
-    2300012: Log13
-    2300014: Log14
-    2300016: Log15
-    2300018: Log16
-    2300020: Log17
-    2300022: Log18
-    2300024: Log19
-    2300026: Log2
-    2300028: Log3
-    2300030: Log4
-    2300032: Log5
-    2300034: Log6
-    2300036: Log7
-    2300038: Log8
-    2300040: Log9
-    3300000: Wall_BOT
-    3300002: Wall_TOP
-    3300004: Log1
-    3300006: Log10
-    3300008: Log11
-    3300010: Log12
-    3300012: Log13
-    3300014: Log14
-    3300016: Log15
-    3300018: Log16
-    3300020: Log17
-    3300022: Log18
-    3300024: Log19
-    3300026: Log2
-    3300028: Log3
-    3300030: Log4
-    3300032: Log5
-    3300034: Log6
-    3300036: Log7
-    3300038: Log8
-    3300040: Log9
-    4300000: Wall_BOT
-    4300002: Wall_TOP
-    4300004: Log1
-    4300006: Log2
-    4300008: Log3
-    4300010: Log4
-    4300012: Log5
-    4300014: Log6
-    4300016: Log7
-    4300018: Log8
-    4300020: Log9
-    4300022: Log10
-    4300024: Log11
-    4300026: Log12
-    4300028: Log13
-    4300030: Log14
-    4300032: Log15
-    4300034: Log16
-    4300036: Log17
-    4300038: Log18
-    4300040: Log19
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Kitchen_Island
     9500000: //RootNode
   externalObjects: {}
   materials:
