@@ -68,6 +68,7 @@ ModelImporter:
     2300034: Log8
     2300036: Log9
     2300038: Log20
+    2300040: //RootNode
     3300000: Log1
     3300002: Log10
     3300004: Log11
@@ -88,6 +89,7 @@ ModelImporter:
     3300034: Log8
     3300036: Log9
     3300038: Log20
+    3300040: //RootNode
     4300000: Log1
     4300002: Log2
     4300004: Log3
@@ -108,6 +110,7 @@ ModelImporter:
     4300034: Log18
     4300036: Log19
     4300038: Log20
+    4300040: WALL_LOG_Randomised_SingleMesh
     9500000: //RootNode
   externalObjects: {}
   materials:
